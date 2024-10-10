@@ -1,0 +1,36 @@
+body{
+    background-color: azure;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+header{
+    background-color: white;
+    font-family: Impact;
+    padding: 1px;
+    margin: 1px;
+    text-align: left;
+    width: 100%;
+
+}
+section{
+    background-color: grey;
+}
+aside{
+    background-color: bisque;
+    width: auto;
+    flex: 1;
+    padding: 20px;
+    border border-radius: 10px;
+}
+nav
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-family: arial;
+    margin-top: 10px;
+    width: 100%;
+
+}
